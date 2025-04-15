@@ -1,0 +1,8 @@
+pyrogram
+colorama
+rich
+tgcrypto
+requests
+nest_asyncio
+patool
+pyunpack
